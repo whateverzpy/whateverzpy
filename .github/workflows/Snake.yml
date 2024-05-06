@@ -1,6 +1,7 @@
 name: Generate Snake Game from GitHub Contribution Grid
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *' # Runs every day at 00:00 UTC
 
@@ -8,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
