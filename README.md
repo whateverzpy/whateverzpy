@@ -13,11 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whateverzpy&show_icons=true&theme=radical" height="200em" />
-  &nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whateverzpy&theme=radical" height="200em" />
-  <br>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=rogue" height="300em" />
-</div>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whateverzpy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whateverzpy&hide_title=true&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
