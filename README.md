@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=100&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Hi+there!++%5C(%40%5E0%5E%40)%2F;console.log(%22Hello+world!%22)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=100&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=160&lines=Hi+there!+++o(*%5E%E2%96%BD%5E*)%E2%94%9B;console.log(%22Hello+World!%22)" alt="Typing SVG" />
 
 ## About me
 - 🏫 I'm now studing in Harbin Institute of Technology(ShenZhen).
@@ -7,6 +7,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Here+are+my+stats..." alt="Typing SVG" />
+  <br><br>
   <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whateverzpy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />&nbsp;&nbsp;<img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whateverzpy&hide_title=true&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Here+are+my+contributions..." alt="Typing SVG" />
@@ -26,7 +27,7 @@
        width="860px"/>
   </picture>
   <br><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=120&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=130&lines=INFINITE+PROGRESS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=120&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=180&lines=INFINITE+PROGRESS" alt="Typing SVG" />
 </div>
 
 <!--START_SECTION:waka-->
