@@ -21,3 +21,8 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=rogue" height="300em" />
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whateverzpy)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
