@@ -18,12 +18,11 @@
   <br><br><br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=rogue" />
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-night" />
     <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy" />
-    <!-- 默认图片 -->
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-day" />
     <img alt="Ashutosh's github activity graph" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=rogue" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-night" 
        width="860px"/>
   </picture>
   <br><br><br>
