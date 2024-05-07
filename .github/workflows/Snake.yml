@@ -30,3 +30,16 @@ jobs:
             outputs: |
               dist/github-snake.svg?color_snake=#6495ED
               dist/github-snake-dark.svg?palette=github-dark?color_snake=#4169E1
+
+      - name: Move SVGs to the assets folder
+        run: |
+          mkdir -p ./assets
+          mv ./dist/*.svg ./assets/
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./assets/*.svg
+          git commit -m "Update GitHub snake SVGs" -a # 提交所有变更
+          git push
