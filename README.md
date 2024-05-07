@@ -14,7 +14,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whateverzpy/whateverzpy/main/assets/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whateverzpy/whateverzpy/main/assets/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/whateverzpy/whateverzpy/main/assets/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/whateverzpy/whateverzpy/main/assets/github-snake.svg" />
   </picture>
   <br><br><br><br>
   <picture>
@@ -23,7 +23,7 @@
     <source media="(prefers-color-scheme: light)" 
           srcset="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-day" />
     <img alt="Ashutosh's github activity graph" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-night" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-day" 
        width="860px"/>
   </picture>
   <br><br><br>
