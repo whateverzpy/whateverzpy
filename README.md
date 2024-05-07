@@ -12,9 +12,9 @@
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Here+are+my+contributions..." alt="Typing SVG" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whateverzpy/whateverzpy/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/whateverzpy/whateverzpy/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/whateverzpy/whateverzpy/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whateverzpy/whateverzpy/blob/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/whateverzpy/whateverzpy/blob/main/assets/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/whateverzpy/whateverzpy/blob/main/assets/github-snake-dark.svg" />
   </picture>
   <br><br><br><br>
   <picture>
