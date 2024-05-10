@@ -2,7 +2,7 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 16 * * *"     # Run every day at 00:00 Beijing time
   workflow_dispatch:
 
 jobs:
@@ -17,26 +17,26 @@ jobs:
           # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
 
-          # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          #
-          #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+            # list of files to generate.
+            # one file per line. Each output can be customized with options as query string.
+            # 
+            #  supported options:    use `?` to add options and `&` to separate them
+            #  - palette:     A preset of color, one of [github, github-dark, github-light]
+            #  - color_snake: Color of the snake
+            #  - color_dots:  Coma separated list of dots color.
+            #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+            #                 Exactly 5 colors are expected.
+            outputs: |
+              dist/assets/github-snake.svg?color_snake=#6495ED
+              dist/assets/github-snake-dark.svg?palette=github-dark&color_snake=#4169E1
 
-      - uses: crazy-max/ghaction-github-pages@v4.0.0
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the main branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: main
           build_dir: dist
-          verbose: true
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
