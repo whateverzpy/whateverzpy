@@ -29,12 +29,13 @@ jobs:
           outputs: |
             dist/assets/github-snake.svg?color_snake=#6495ED
             dist/assets/github-snake-dark.svg?palette=github-dark&color_snake=#4169E1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
 
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the main branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
           build_dir: dist
