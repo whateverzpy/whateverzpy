@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Here+are+my+stats..." alt="Typing SVG" />
   <br><br>
-  <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whateverzpy&rank_icon=percentile&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />&nbsp;&nbsp;<img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whateverzpy&layout=donut&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff" />
+  <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whateverzpy&rank_icon=percentile&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />&nbsp;&nbsp;<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whateverzpy&layout=donut&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Here+are+my+contributions..." alt="Typing SVG" />
   <picture>
