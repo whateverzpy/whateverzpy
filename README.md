@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Here+are+my+stats..." alt="Typing SVG" />
   <br><br>
-  <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whateverzpy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />&nbsp;&nbsp;<img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whateverzpy&hide_title=true&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whateverzpy&rank_icon=percentile&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />&nbsp;&nbsp;<img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whateverzpy&layout=donut&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&pause=1000&color=3986FF&center=true&vCenter=true&random=false&width=2000&height=100&lines=Here+are+my+contributions..." alt="Typing SVG" />
   <picture>
@@ -18,12 +18,12 @@
   </picture>
   <br><br><br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
+    <source media="(prefers-color-scheme: dark)"
           srcset="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-night" />
-    <source media="(prefers-color-scheme: light)" 
+    <source media="(prefers-color-scheme: light)"
           srcset="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-day" />
-    <img alt="Ashutosh's github activity graph" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-day" 
+    <img alt="Ashutosh's github activity graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=whateverzpy&theme=tokyo-day"
        width="860px"/>
   </picture>
   <br><br><br>
@@ -35,67 +35,67 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-467-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 2.7 kB Used in GitHub's Storage 
- > 
+> 📦 2.7 kB Used in GitHub's Storage
+ >
 > 🏆 87 Contributions in the Year 2024
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 4 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-🌆 Daytime                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌃 Evening                58 commits          █████████████████░░░░░░░░   69.05 % 
-🌙 Night                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+🌆 Daytime                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
+🌃 Evening                58 commits          █████████████████░░░░░░░░   69.05 %
+🌙 Night                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 %
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   38 commits          ███████████░░░░░░░░░░░░░░   45.24 % 
-Tuesday                  31 commits          █████████░░░░░░░░░░░░░░░░   36.90 % 
-Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Monday                   38 commits          ███████████░░░░░░░░░░░░░░   45.24 %
+Tuesday                  31 commits          █████████░░░░░░░░░░░░░░░░   36.90 %
+Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-CSS                      13 mins             ██████████████░░░░░░░░░░░   56.92 % 
-Markdown                 8 mins              ████████░░░░░░░░░░░░░░░░░   33.68 % 
-HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+💬 Programming Languages:
+CSS                      13 mins             ██████████████░░░░░░░░░░░   56.92 %
+Markdown                 8 mins              ████████░░░░░░░░░░░░░░░░░   33.68 %
+HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 
-🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  24 mins             █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-LeetCode-Markdown        15 mins             █████████████████░░░░░░░░   66.32 % 
-VsCode                   8 mins              ████████░░░░░░░░░░░░░░░░░   33.68 % 
+🐱‍💻 Projects:
+LeetCode-Markdown        15 mins             █████████████████░░░░░░░░   66.32 %
+VsCode                   8 mins              ████████░░░░░░░░░░░░░░░░░   33.68 %
 
-💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  24 mins             █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-SCSS                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 %
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+SCSS                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 %
 ```
 
 
