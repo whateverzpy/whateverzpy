@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,22 +74,16 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 58 mins        █████████████░░░░░░░░░░░░   52.15 % 
-Markdown                 1 hr 46 mins        ████████████░░░░░░░░░░░░░   46.73 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kaji-buntan              2 hrs 7 mins        ██████████████░░░░░░░░░░░   55.99 % 
-LeetCode-Markdown        1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   32.86 % 
-whateverzpy              25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +97,7 @@ SCSS                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 2024/05/22 12:32:44 UTC
+ Last Updated on 2024/05/23 01:13:08 UTC
 <!--END_SECTION:waka-->
 
 
