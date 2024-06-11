@@ -31,7 +31,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -39,7 +39,7 @@
 
 > 📦 3.6 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2024
+> 🏆 123 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,15 +97,16 @@ Windows                  4 hrs 44 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             ███████████████░░░░░░░░░░   60.00 % 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-SCSS                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+SCSS                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 
 
- Last Updated on 2024/06/11 01:16:43 UTC
+ Last Updated on 2024/06/11 12:34:28 UTC
 <!--END_SECTION:waka-->
 
 
