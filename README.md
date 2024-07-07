@@ -31,15 +31,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 kB Used in GitHub's Storage 
- > 
-> 🏆 129 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,16 +72,19 @@ Sunday                   14 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               57 mins             █████████████████████░░░░   83.45 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kaji-buntan              1 hr 9 mins         █████████████████████████   99.78 % 
+VsCode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,7 +100,7 @@ SCSS                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2024/07/06 12:31:27 UTC
+ Last Updated on 2024/07/07 01:23:46 UTC
 <!--END_SECTION:waka-->
 
 
