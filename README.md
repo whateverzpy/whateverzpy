@@ -31,13 +31,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,16 +74,18 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     6 mins              █████████████████████████   100.00 % 
+V                        3 hrs 25 mins       ███████████████████████░░   93.27 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+SystemVerilog            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VsCode                   6 mins              █████████████████████████   100.00 % 
+Unknown Project          3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +101,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2025/04/14 12:44:57 UTC
+ Last Updated on 2025/04/15 01:48:59 UTC
 <!--END_SECTION:waka-->
 
 
