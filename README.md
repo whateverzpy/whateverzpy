@@ -2,7 +2,7 @@
 
 # About me
 
-- 🏫 I'm now studing in Harbin Institute of Technology(ShenZhen).
+- 🏫 I'm now studying in Harbin Institute of Technology, Shenzhen.
 - 💻 I love programming and coding.
 - 🍷 I seek to solve problems in an elegant way.
 
