@@ -7,10 +7,6 @@
 - 🍷 I seek to solve problems in an elegant way.
 - 📝 This is my [Blog](https://whateverz.top/).
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whateverzpy&layout=donut" alt="top-langs" />
-</div>
-
 <!--
 **whateverzpy/whateverzpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
